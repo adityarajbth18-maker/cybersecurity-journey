@@ -1,0 +1,7 @@
+a=int(input("enter first number"))
+b=int(input("enter second number"))
+c= complex(input("enter the complex number "))
+print(c)
+print("sum is :", a+b)
+print("difference is :", a-b)
+print("product is :", a*b)
