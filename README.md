@@ -7,6 +7,9 @@ In this repo, I will push all my learnings from my cybersecurity journey.
 -day:03 :-
   Today , i have learn that how to do string manipulation and escapscequences .
    today i learn one new thing also that how can i make video from myself and edit it .
+-day:04 :-
+ today , i have learnt that how to manipulate list and tuple in the python code .
+
   
   
    
